@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(124, 231, 255);
+    text-align: center;
+    font-family: "M PLUS Rounded 1c";
+    font-weight: bolder;
+    background-image: url('gear.PNG');
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+    text-shadow: black 2px 2px;
+}
+
+h2 {
+    color: blue;
+    font-size: 30px;
+    text-shadow: greenyellow 2px 2px;
+}
+
+h3 {
+    color: red;
+    font-size: 30px;
+    -webkit-text-stroke: rgb(255, 106, 0) 1px;
+}
+
+table {
+    background-color: yellow;
+    color: green;
+}
